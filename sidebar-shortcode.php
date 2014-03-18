@@ -23,7 +23,6 @@ function widgets_shortcode($atts, $content=null){
 	
 	if (is_active_sidebar($name)){
 		ob_start();
-		print "woo widgets";
     	dynamic_sidebar($name);
     	$widgets= ob_get_contents();
     	ob_end_clean();
