@@ -16,5 +16,5 @@ For the widgets shortcode: [widgets_shortcode name=SIDEBARID]. Replace SIDEBARID
 ## Some Notes
 
 1. I would recommend prefixing the shortcodes and the functions to avoid conflicts with other plugins or theme code.
-2. I wrote a blog post that explains everything here: (Include a Sidebar with a Shortcode in WordPress)[http://casabona.org/2014/03/include-sidebar-shortcode-wordpress/]
+2. I wrote a blog post that explains everything here: [Include a Sidebar with a Shortcode in WordPress](http://casabona.org/2014/03/include-sidebar-shortcode-wordpress/)
 3. This, like WordPress, is released under the GPL. 
