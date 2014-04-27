@@ -5,7 +5,7 @@ Two shortcodes for WordPress that will allow you to call sidebars or widget area
 
 ## Setup
 
-1. Copy the code from the files into your WordPress theme or plug-in. 
+1. ~~Copy the code from the files into your WordPress theme or plug-in.~~ This is now a plugin! Just added to your plugins directory and install! 
 2. That's it! 
 
 ## Useage
